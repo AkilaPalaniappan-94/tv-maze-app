@@ -1,3 +1,6 @@
+# YouTube Video Links
+Courtney's Assignment 1 Video Link: [https://youtu.be/9qO9ZlLoOmk](url)   
+
 # TvMazeApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.3.
